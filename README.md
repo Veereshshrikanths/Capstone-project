@@ -226,3 +226,4 @@ MySQL is not directly exposed to the frontend
 Volume attached to MySQL ensures persistence
 
 # CI/CD Pipeline Architecture (Jenkins)
+<img width="215" height="186" alt="image" src="https://github.com/user-attachments/assets/46789473-f6a4-42a7-a8d8-79e38ce6cdac" />
